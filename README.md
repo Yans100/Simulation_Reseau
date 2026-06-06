@@ -1,5 +1,5 @@
 
-# Simulation réseau connecté — INF1005
+# Simulation réseau connecté — INF1009
 
 Simulation Python du modèle OSI (couches transport et réseau) avec interface graphique Tkinter, animant les phases d'établissement, transfert et libération d'une connexion en mode connecté.
 
@@ -62,4 +62,4 @@ Files/             — fichiers de journalisation (S_lec, S_ecr, L_ecr, L_lec)
 
 ---
 
-Projet universitaire solo — cours INF1005, UQTR.
+Projet universitaire en équipe — cours INF1009, UQTR.
