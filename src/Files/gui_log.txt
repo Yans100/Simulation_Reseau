@@ -1,0 +1,11 @@
+--- Lancement GUI ---
+[21:13:27] === Phase d'établissement de connexion ===
+[21:13:27] Demande de connexion src 145 → dst 174
+[21:13:31] [N_CONNECT.resp] Réponse de B (acceptée)
+[21:13:33] [N_CONNECT.conf] Connexion confirmée à A
+[21:13:43] === Phase de transfert de données - écrivez un message et cliquez sur Envoyer ===
+[21:14:03] A → B : 'Test libération' (N_DATA.req)
+[21:14:04] NACK
+[21:14:09] === Phase de libération ===
+[21:14:11] Connexion libérée
+[21:14:26] --- Fin de session ---
